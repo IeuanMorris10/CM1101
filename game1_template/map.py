@@ -13,11 +13,11 @@ south and east. The exit is to the west.""",
 }
 
 room_admins = {
-    "name": "Kirills office",
+    "name": "MJ and Simon's room",
 
     "description":
-    """You are leaning against the door of Kirills'
-office. Inside you notice Kirill. He
+    """You are leaning against the door of the systems managers'
+room. Inside you notice Matt "MJ" John and Simon Jones. They
 ignore you. To the north is the reception.""",
 
     "exits": {"north": "Reception"}
